@@ -1,0 +1,8 @@
+Questions thats should be answered in this project.
+1. How does the total count of Movies compare to TV Shows on Netflix, and which category dominates overall? (For the Bar Visualisation -Movies vs TV Shows)
+2. What is the percentage distribution of all content ratings on Netflix, and which rating categories are most common? (For the Pie Chart -Content Ratings)
+3. How are Netflix movie durations distributed, and what duration range do most movies typically fall into? (For the Histogram -Movie Duration Distribution)
+4. How many Netflix titles were released each year, and what trends or patterns can we observe over time? (For the Scatterplot -Releases per Year)
+5. Which 20 countries contribute the most Netflix content, and how do their total counts compare? (For the Horizontal Bar Chart -Top 20 Countries)
+6. How have the yearly release trends for Movies and TV Shows changed over time, and how do these two categories compare when viewed year-by-year? (For the Subplot with Two Line Plots -Movies vs TV Shows Over Years)
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
